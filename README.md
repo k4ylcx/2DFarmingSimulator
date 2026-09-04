@@ -41,11 +41,3 @@ This project was created to gain hands-on experience with:
 | Move          | `WASD` / Arrow Keys |
 | Interact      | `Right click`       |
 
-
-
-## Author
-
-**Khayla Salim**
-
-Computer Science student interested in software development, game development, and creative technology.
-
