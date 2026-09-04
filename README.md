@@ -13,7 +13,8 @@
 * Explore a 2D farming environment
 * Interactive gameplay mechanics
 * Crop growth and farming systems
-* Day and night cycle mechanics 
+* Day and night cycle mechanics
+* Engaging dialogue with NPCs
 
 ## Built With
 
@@ -38,8 +39,7 @@ This project was created to gain hands-on experience with:
 | Action        | Key                 |
 | ------------- | ------------------- |
 | Move          | `WASD` / Arrow Keys |
-| Interact      | `E`                 |
-| Other Actions | Coming Soon         |
+| Interact      | `Right click`       |
 
 
 
